@@ -1,9 +1,12 @@
 body {
-    background-color: #f4f6f9;
+    background-color: black;
+    color: white; /* makes text readable */
 }
 
 .question-block {
     width: 75%;
+    background-color: #1a1a1a; /* dark card instead of white */
+    color: white;
 }
 
 .answer-btn.selected {
